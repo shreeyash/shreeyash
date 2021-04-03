@@ -60,7 +60,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>Shreeyash's GitHub Stats</summary>
 
   <img align="left" alt="Shreeyash's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
