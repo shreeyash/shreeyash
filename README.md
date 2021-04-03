@@ -1,11 +1,11 @@
-### Hi there, I'm Shreeyash - aka [shree][website] 👋
+### Hi there, I'm Shreeyash - aka [shree][instagram] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Flutter Developer, Electronics Engineer, Entrepreneur, and Believer!!
 
-- 🔭 I just launched my first serviced based company: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first serviced based company: [Neurastats!][website]!
 - 🌱 I’m currently learning iOS development and vector art work.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="shreeyash Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -97,21 +97,18 @@
 
 </details>
 
-[website]: https://www.instagram.com/shreeyash.dev/
+[website]: https://www.neurastats.com/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/shreeyash.dev/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/shreeyash-haritashya-5ab501144/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-```css
-  .filter-green{
-        filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
-    }
+
 ```
 
 
