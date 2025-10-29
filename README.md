@@ -97,19 +97,6 @@ Currently at **[AumeraAI](https://www.aumera.ai)** — developing **agentic fram
 
 ---
 
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreeyash-haritashya&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeyash-haritashya&theme=radical&hide_border=true" alt="GitHub streak" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyash-haritashya&layout=compact&theme=radical&hide_border=true" width="49%">
-</p>
-
----
-
 ### 🌐 Connect with Me  
 
 <p align="center">
@@ -123,14 +110,6 @@ Currently at **[AumeraAI](https://www.aumera.ai)** — developing **agentic fram
 
 ### ✨ Quote I Live By  
 > “Stay curious, build relentlessly, and leave things better than you found them.”
-
----
-
-### 🌀 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreeyash-haritashya&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
